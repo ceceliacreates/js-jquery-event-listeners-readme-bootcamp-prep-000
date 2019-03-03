@@ -22,7 +22,7 @@ function pressIt() {
 $(document).ready(function(){
 getIt()
 frameIt()
-pressIt())
+pressIt()
 // call functions here
 
 });
